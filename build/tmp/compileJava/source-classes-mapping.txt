@@ -1,0 +1,24 @@
+com/clickerclass/testanswers/entity/Question.java
+ com.clickerclass.testanswers.entity.Question
+com/clickerclass/testanswers/service/TestAnswerService.java
+ com.clickerclass.testanswers.service.TestAnswerService
+com/clickerclass/testanswers/model/QuestionModel.java
+ com.clickerclass.testanswers.model.QuestionModel
+com/clickerclass/testanswers/mapper/TestAnswerMapper.java
+ com.clickerclass.testanswers.mapper.TestAnswerMapper
+com/clickerclass/testanswers/TestAnswersApplication.java
+ com.clickerclass.testanswers.TestAnswersApplication
+com/clickerclass/testanswers/handler/TestAnswerHandler.java
+ com.clickerclass.testanswers.handler.TestAnswerHandler
+com/clickerclass/testanswers/model/AnswerModel.java
+ com.clickerclass.testanswers.model.AnswerModel
+com/clickerclass/testanswers/repository/TestAnswerRepository.java
+ com.clickerclass.testanswers.repository.TestAnswerRepository
+com/clickerclass/testanswers/service/impl/TestAnswerServiceImpl.java
+ com.clickerclass.testanswers.service.impl.TestAnswerServiceImpl
+com/clickerclass/testanswers/entity/Answer.java
+ com.clickerclass.testanswers.entity.Answer
+com/clickerclass/testanswers/model/TestAnswerModel.java
+ com.clickerclass.testanswers.model.TestAnswerModel
+com/clickerclass/testanswers/entity/TestAnswer.java
+ com.clickerclass.testanswers.entity.TestAnswer
